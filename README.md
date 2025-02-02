@@ -3,6 +3,7 @@ A weather forecast predicter
 
 ## Description
 A weather forecast predicter for any city area you search up.
+(It's incomplete, I will probably come back to it.)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -18,7 +19,7 @@ A weather forecast predicter for any city area you search up.
 drop application in Render https://render.com/
 
 ## Usage
-
+https://api.openweathermap.org
 
 ## License
 
