@@ -28,7 +28,7 @@ This project has no license.
 Contributed meat of project.
 
 ## Tests
-Ran about 3-4 tests.
+Ran about 3 tests.
 
 ## Questions
 If you have any questions, feel free to reach out:
